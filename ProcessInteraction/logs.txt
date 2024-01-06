@@ -1,0 +1,103 @@
+[ProcessInteraction] Access to process \Windows\System32\MoUsoCoreWorker.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\MoUsoCoreWorker.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\MoUsoCoreWorker.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\ImmersiveControlPanel\SystemSettings.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\ImmersiveControlPanel\SystemSettings.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\ImmersiveControlPanel\SystemSettings.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\ApplicationFrameHost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\ApplicationFrameHost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\ApplicationFrameHost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\oobe\UserOOBEBroker.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\oobe\UserOOBEBroker.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\oobe\UserOOBEBroker.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Users\WDKRemoteUser\AppData\Local\Microsoft\OneDrive\23.246.1127.0002\FileCoAuth.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Users\WDKRemoteUser\AppData\Local\Microsoft\OneDrive\23.246.1127.0002\FileCoAuth.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Users\WDKRemoteUser\AppData\Local\Microsoft\OneDrive\23.246.1127.0002\FileCoAuth.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\taskhostw.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\taskhostw.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\taskhostw.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\MusNotifyIcon.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\MusNotifyIcon.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\MusNotifyIcon.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\dllhost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\dllhost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\dllhost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\SysWOW64\dllhost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\SysWOW64\dllhost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\SysWOW64\dllhost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\cmd.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\cmd.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\cmd.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\conhost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\conhost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\conhost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Program Files\WindowsApps\Microsoft.YourPhone_1.23102.126.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Program Files\WindowsApps\Microsoft.YourPhone_1.23102.126.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Program Files\WindowsApps\Microsoft.YourPhone_1.23102.126.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\wbem\WmiPrvSE.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\wbem\WmiPrvSE.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\wbem\WmiPrvSE.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\svchost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\backgroundTaskHost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\backgroundTaskHost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\backgroundTaskHost.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\wbem\WmiPrvSE.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\wbem\WmiPrvSE.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\wbem\WmiPrvSE.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\RuntimeBroker.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\RuntimeBroker.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\RuntimeBroker.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\servicing\TrustedInstaller.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\servicing\TrustedInstaller.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\servicing\TrustedInstaller.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.3745_none_7ded3f327ca60a41\TiWorker.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.3745_none_7ded3f327ca60a41\TiWorker.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.3745_none_7ded3f327ca60a41\TiWorker.exe from \Windows\System32\VBoxService.exe
+[ProcessInteraction] Access to process \Windows\System32\VBoxService.exe from \Windows\System32\svchost.exe
+[ProcessInteraction] Access to process \Windows\System32\VBoxService.exe from \Windows\System32\svchost.exe
+[ProcessInteraction] Access to process \Windows\System32\wbem\WmiPrvSE.exe from \ProgramData\Microsoft\Windows Defender\Platform\4.18.23110.3-0\MsMpEng.exe
+[ProcessInteraction] Access to process \Windows\System32\wbem\WmiPrvSE.exe from \ProgramData\Microsoft\Windows Defender\Platform\4.18.23110.3-0\MsMpEng.exe
+[ProcessInteraction] Access to process \Windows\System32\wbem\WmiPrvSE.exe from \ProgramData\Microsoft\Windows Defender\Platform\4.18.23110.3-0\MsMpEng.exe
+[ProcessInteraction] Access to process \Windows\System32\wbem\WmiPrvSE.exe from \ProgramData\Microsoft\Windows Defender\Platform\4.18.23110.3-0\MsMpEng.exe
+[ProcessInteraction] Access to process \Windows\System32\sc.exe from \Windows\System32\cmd.exe
+[ProcessInteraction] Access to process \Windows\System32\sc.exe from \ProgramData\Microsoft\Windows Defender\Platform\4.18.23110.3-0\MsMpEng.exe
+[ProcessInteraction] Access to process \Windows\System32\sc.exe from \ProgramData\Microsoft\Windows Defender\Platform\4.18.23110.3-0\MsMpEng.exe
+[ProcessInteraction] Access to process \Windows\System32\sc.exe from \Windows\System32\cmd.exe
+[ProcessInteraction] Access to process \Windows\System32\sc.exe from \Windows\System32\cmd.exe
+[ProcessInteraction] Access to process \Windows\System32\sc.exe from \Windows\System32\csrss.exe
+[ProcessInteraction] Access to process \Windows\System32\sc.exe from \Windows\System32\sc.exe
+[ProcessInteraction] Access to process \Windows\System32\sc.exe from \Windows\System32\sc.exe
+[ProcessInteraction] Access to process \Windows\System32\sc.exe from \Windows\System32\conhost.exe
+[ProcessInteraction] Access to process \Windows\System32\sc.exe from \Windows\System32\sc.exe
