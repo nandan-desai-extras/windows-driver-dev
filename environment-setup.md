@@ -10,9 +10,9 @@ I use Virtual Box to setup my Virtual Machines (VMs) and hence, this guide will 
     
 -   Download Visual Studio on the Development VM, and install “Desktop Development with C++” module and also select Windows 11 SDK. Wait for around 20-30 mins for it to download and install.
     
--   Next, the same Development VM, download and install Windows Driver Kit (WDK). It will also install the Visual Studio extension for Driver development. [Download the Windows Driver Kit (WDK) - Windows drivers | Microsoft Learn](https://learn.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk#download-icon-step-3-install-wdk)
+-   Next, on the same Development VM, download and install Windows Driver Kit (WDK). It will also install the Visual Studio extension for Driver development. [Download the Windows Driver Kit (WDK) - Windows drivers | Microsoft Learn](https://learn.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk#download-icon-step-3-install-wdk)
     
--   After that’s done, copy the kdnet.exe and VerifiedNICList.xml (usually found in `C:\Program Files (x86)\Windows Kits\10\Debuggers\x64`) from Development VM to the Test VM (create a Shared Folder between the two VMs and the Host PC to make it easy to move files).
+-   After that’s done, copy the `kdnet.exe` and `VerifiedNICList.xml` (usually found in `C:\Program Files (x86)\Windows Kits\10\Debuggers\x64`) from Development VM to the Test VM (create a Shared Folder between the two VMs and the Host PC to make it easy to move files).
     
 -   On the Test VM, create C:\KDNET folder and move these two files in there. Then execute `kdnet.exe <development vm ip> <port of your choice>`
     
@@ -30,7 +30,7 @@ At this stage, the Test VM should have “Test Mode” displayed in the bottom r
 
 #### Setup Visual Studio for Driver Development and Deployment
 
-(Here, "Deployment" refers to compiling the driver and copying the compiled driver files (the .sys and .inf files) to the Test VM).
+(Here, "Deployment" refers to compiling the driver and copying the compiled driver files (the .sys and .inf files) to the Test VM, which will all be done by Visual Studio when setup correctly. The following steps show how to do it).
 
 -   Create a “KMDF, Empty” type project
 
@@ -42,11 +42,11 @@ At this stage, the Test VM should have “Test Mode” displayed in the bottom r
     
 -   Update the “Hardware ID Driver Update” after the Test VM is added (again, as shown in the previous link)
     
--   That’s it! Now go to Build > Deploy Build and your driver will be built and the files will be available in C:\DriverTest folder on the Test VM.
+-   That’s it! Now go to Build > Deploy and your driver will be built and the files will be available in C:\DriverTest folder on the Test VM.
 
-#### Setup Driver Debugging
+#### Setup Driver Debugging with Windbg
 
-For capturing debug logs in Windbg on the host, execute the following in CMD on the Test VM:
+For capturing debug logs in Windbg on the host, execute the following in CMD on the Test VM (this modifies the Debug filter to send all debug logs):
 
 ```powershell
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Debug Print Filter" /V DEFAULT /t REG_DWORD /d 0xf
