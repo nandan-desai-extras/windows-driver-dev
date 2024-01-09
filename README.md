@@ -117,7 +117,7 @@ After deploying the Driver files to the target machine, right click on the .inf 
 
 Source: https://stackoverflow.com/a/72845445
 
-- If you ever use "sc" command to create a service for your filter driver, you might receive "[SC] StartService FAILED 2: The system cannot find the file specified.", after running "sc start <service name>". I'm exactly sure about the reason for this but I simply prefer using "fltmc" command to load the filter.
+- If you ever use "sc" command to create a service for your filter driver, you might receive "[SC] StartService FAILED 2: The system cannot find the file specified.", after running "sc start <service name>". I'm not exactly sure about the reason for this but I simply prefer using "fltmc" command to load the filter.
 
 ## License
 
